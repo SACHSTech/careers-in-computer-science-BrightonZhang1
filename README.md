@@ -90,7 +90,7 @@ The first year courses for University of Toronto's Computer Science are focused 
 There are other ways to gain real life and work experience outside of traditional schooling. This include Co-Op, Interships, Workshops, and Competitions. These don't need to be related to your occupation or field of study, as interpersonal skills are required for every student to learn regardless. 
  
 ## Sample of Experience: Co-op
-Co-op and internships are the most popular ways to gain real work experience outside of schooling. They are very convenient for the student, and U of T supports a Co-op program for students in computer science. U of T is also very well known for its Co-op program across the globe, resulting in a much larger variety of jobs for the student ot choose from.
+Co-op and internships are the most popular ways to gain real work experience outside of schooling. They are very convenient for the student, and U of T supports a Co-op program for students in computer science. U of T is also very well known for its Co-op program across the globe, resulting in a much larger variety of jobs for the student to choose from.
 
  <img src="https://www.urban.org/sites/default/files/2022-03/jobs-feature-header-1700x700_0.png" width="600" height="300">
  
@@ -99,10 +99,10 @@ Co-op and internships are the most popular ways to gain real work experience out
 # 1.4: Real Jobs
 Once you have finished your desired degree, here are some possible job listings with your new skills.
  
-| Occupation| Experience    | Salary (K/Year)|
+| Occupation| Experience    | Salary (k/Year)|
 | ------------- |:-------------:| -----:|
-| [Back End Developer](https://ca.indeed.com/jobs?q=Software+Developer&pp=gQAAAAAAAAAAAAAAAAAB6MVIbQADAAABAAA&vjk=aad699c83703248e&advn=3163283579357785)    | Mid-Level | $95-110 |
-|[Software Development Manager](https://ca.indeed.com/jobs?q=Software+Developer&pp=gQAAAAAAAAAAAAAAAAAB6MVIbQADAAABAAA&vjk=c8d202b4297f546b)    | Senior-Level      | $96|
+| [Back End Developer](https://ca.indeed.com/jobs?q=Software+Developer&pp=gQAAAAAAAAAAAAAAAAAB6MVIbQADAAABAAA&vjk=aad699c83703248e&advn=3163283579357785)    | Entry-Level | $95-110 |
+|[Sr. Data Developer](https://ca.indeed.com/jobs?q=Software+Developer&pp=gQAAAAAAAAAAAAAAAAAB6MVIbQADAAABAAA&vjk=23ef96412ec48dfc&advn=2354475833229121)    | Senior-Level      | Not Specified|
 |[Software Developer](https://ca.indeed.com/jobs?q=Software+Developer&start=20&pp=gQAeAAAAAAAAAAAAAAAB6MVIbQBGAQEBCQDeXZGFuxFcoAzRdqBKYEaCd2xXDcsd5le4G3axhu_f_s14iIzQPiehXv8uBJobtBaNU2Ou-uR4x4HR9EQkN3PWlwAA&vjk=529b75466b510977&advn=1786219604870286)| Mid-Level      |    $80–130 |
  
     Job description is attached with each job posting in the chart
@@ -111,13 +111,13 @@ Back End Developer:
 - Location: Richmond Hill
 - Additional Skills: Interpersonal Skills, Strong problem solving and debugging skills
  
-Software Development Manager:
-- Location: Scarborough
-- Additional Skills: Leadership Experience, Interpersonal Skills, Organization
+Sr. Data Developer:
+- Location: Toronto
+- Additional Skills: Leadership Experience, Strong Interpersonal Skills, Organization, Collaboration
  
 Software Developer:
 - Location: Vars
-- Additional Skills: Software Developer: 3 years (Preferred)
+- Additional Skills: Software Developer: 3 years (Preferred), Collaboration
 
 
 # Cited Sources
@@ -133,6 +133,24 @@ Sources:
 
     Computer Science Admission Category. (2019, December 12). Faculty of Arts & Science. https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/computer-science#computer-science-accordion-1
 
+    and, E. (2019). Program Search - CanLearn.ca. Canlearn.ca. https://tools.canlearn.ca/cslgs-scpse/cln-cln/rep-fit/p/af.p.clsea-eng.do
+
+
+Image Sources:
+    
+    (2022). Yoh.com. https://www.yoh.com/hubfs/Thoughtful%20young%20programmer%20coding%20on%20computer%20in%20the%20evening%20at%20home.jpeg
+
+    (2022). Arc.dev. https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg
+
+    ‌(2022). Qlik.com. https://www.qlik.com/blog/assets/uploads/images/gettyimages-679762242.jpg
+
+    ‌(2022). Urban.org. https://www.urban.org/sites/default/files/2022-03/jobs-feature-header-1700x700_0.png
+
+‌
+
+
+
+‌
 ‌
 
 ‌
