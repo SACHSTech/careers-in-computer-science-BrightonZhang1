@@ -70,3 +70,69 @@ Many universities and colleges in Canada have courses available to help you beco
     - Mcgill University
     - University of Alberta
  
+If you need help finding specific university programs, visit [ here.](https://tools.canlearn.ca/cslgs-scpse/cln-cln/rep-fit/p/af.p.clsea-eng.do)
+ 
+## Spotlight: University of Toronto
+The University of Toronto is one of the world's schools for Software Engineering and Mathematics. They offer many courses related to the field of software development. The are some of the compulsory courses needed to apply:
+ 
+- Advanced Functions (4U)
+- Calculus & Vectors (4U)
+- English (4U)
+- Mathematics of Data Management (4U) is recommended
+ 
+The admission average for individual selection is low 90's. Some other requirements are a high school diploma, as well as grade 12 courses that are accredited by the Ontario Ministry of Education.[ Here is U of T's official website for more info.](https://future.utoronto.ca/undergraduate-programs/computer-science/)
+ 
+## First Year Courses & Length of Degree
+The first year courses for University of Toronto's Computer Science are focused on complex math and calculations. In the first year, Computer Science features courses such as Data Abstraction and Algorithms, as well as Calculus. Receiving a  bachelor's degree in Computer Science takes roughly 3-4 years, an additional 2 years for a masters degree.
+ 
+ 
+# 1.3: Additional Experience
+There are other ways to gain real life and work experience outside of traditional schooling. This include Co-Op, Interships, Workshops, and Competitions. These don't need to be related to your occupation or field of study, as interpersonal skills are required for every student to learn regardless. 
+ 
+## Sample of Experience: Co-op
+Co-op and internships are the most popular ways to gain real work experience outside of schooling. They are very convenient for the student, and U of T supports a Co-op program for students in computer science. U of T is also very well known for its Co-op program across the globe, resulting in a much larger variety of jobs for the student ot choose from.
+
+ <img src="https://www.urban.org/sites/default/files/2022-03/jobs-feature-header-1700x700_0.png" width="600" height="300">
+ 
+ 
+ 
+# 1.4: Real Jobs
+Once you have finished your desired degree, here are some possible job listings with your new skills.
+ 
+| Occupation| Experience    | Salary (K/Year)|
+| ------------- |:-------------:| -----:|
+| [Back End Developer](https://ca.indeed.com/jobs?q=Software+Developer&pp=gQAAAAAAAAAAAAAAAAAB6MVIbQADAAABAAA&vjk=aad699c83703248e&advn=3163283579357785)    | Mid-Level | $95-110 |
+|[Software Development Manager](https://ca.indeed.com/jobs?q=Software+Developer&pp=gQAAAAAAAAAAAAAAAAAB6MVIbQADAAABAAA&vjk=c8d202b4297f546b)    | Senior-Level      | $96|
+|[Software Developer](https://ca.indeed.com/jobs?q=Software+Developer&start=20&pp=gQAeAAAAAAAAAAAAAAAB6MVIbQBGAQEBCQDeXZGFuxFcoAzRdqBKYEaCd2xXDcsd5le4G3axhu_f_s14iIzQPiehXv8uBJobtBaNU2Ou-uR4x4HR9EQkN3PWlwAA&vjk=529b75466b510977&advn=1786219604870286)| Mid-Level      |    $80–130 |
+ 
+    Job description is attached with each job posting in the chart
+ 
+Back End Developer:
+- Location: Richmond Hill
+- Additional Skills: Interpersonal Skills, Strong problem solving and debugging skills
+ 
+Software Development Manager:
+- Location: Scarborough
+- Additional Skills: Leadership Experience, Interpersonal Skills, Organization
+ 
+Software Developer:
+- Location: Vars
+- Additional Skills: Software Developer: 3 years (Preferred)
+
+
+# Cited Sources
+
+
+Although becoming a Software Developer seems like a tough and tedious path, it can also be very fun. Hopefully, you learned something new from this document.
+
+Sources:
+
+    Nikoletta Bika. (2017, April 20). Software Developer job description. Recruiting Resources: How to Recruit and Hire Better. https://resources.workable.com/software-developer-job-description 
+
+    Salary: Software Developer (October, 2022). (2022). Glassdoor.ca. https://www.glassdoor.ca/Salaries/software-developer-salary-SRCH_KO0,18.htm
+
+    Computer Science Admission Category. (2019, December 12). Faculty of Arts & Science. https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/computer-science#computer-science-accordion-1
+
+‌
+
+‌
